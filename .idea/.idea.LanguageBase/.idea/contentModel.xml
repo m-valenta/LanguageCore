@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\m.valenta\AppData\Local\JetBrains\Rider2020.3\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\m.valenta\AppData\Local\JetBrains\Rider2020.3\resharper-host\Local\Transient\Rider\v203\SolutionCaches\_LanguageBase.1027114136.00" t="ExcludeRecursive" />
+    <e p="C:\Users\m.valenta\Documents\Tests\LanguageBase" t="IncludeFlat">
+      <e p="LanguageBase.sln" t="IncludeFlat" />
+      <e p="LanguageCoreLib" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LanguageCoreBase.cs" t="Include" />
+        <e p="LanguageCoreLib.csproj" t="IncludeRecursive" />
+        <e p="LanguageCoreUintBase.cs" t="Include" />
+        <e p="LanguageCoreUintBaseTypes.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="ModelBase.cs" t="Include" />
+          <e p="Tokens.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="LanguageCoreLib.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="TokenIds.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
